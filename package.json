@@ -1,0 +1,21 @@
+{
+  "name": "discordjs-modal",
+  "version": "1.0.0",
+  "description": "discordjs-modal is a package which will help you to create new interaction type `MODAL_SUBMIT` in discord.js v13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discordjs-modal",
+    "discord-modal",
+    "modals",
+    "discord.js"
+  ],
+  "author": "Risto Dev",
+  "license": "GNU",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
